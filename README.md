@@ -15,3 +15,5 @@ Density - (Float) People per square mile as of April 1, 2020
 Change - (Float) Percent change in population from April 1, 2020 to July 1, 2021
 
 Any known issues or potential issues, such as sources of bias in collection: It is easier to collect data in cities that are more urban, so it is likely that the measured population is more accurate in the most urban cities. 
+
+Project summary:
