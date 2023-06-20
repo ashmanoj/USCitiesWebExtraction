@@ -4,7 +4,7 @@ Links: https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
 
 The goal of my project: I wanted to see if there is a correlation between the density of a city and the population change within a year
 
-The license of your data and any source data: Mit License, view-source:https://en.wikipedia.org/wiki/List_of_cities_in_India_by_population
+The license of your data and any source data: Mit License
 
 A data type and description for each attribute in your data: 
 State - (String) State in which the city is located
