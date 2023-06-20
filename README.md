@@ -1,5 +1,5 @@
 # I310D_new
-Project overview
+
 Links: https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
 
 The goal of my project: I wanted to see if there is a correlation between the density of a city and the population change within a year
